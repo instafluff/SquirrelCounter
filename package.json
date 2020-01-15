@@ -1,0 +1,27 @@
+{
+  "name": "squirrelcounter",
+  "version": "1.0.0",
+  "description": "Counting Squirrels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/SquirrelCounter.git"
+  },
+  "keywords": [
+    "Squirrel",
+    "Instafluff",
+    "Counter"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/SquirrelCounter/issues"
+  },
+  "homepage": "https://github.com/instafluff/SquirrelCounter#readme",
+  "dependencies": {
+    "webwebweb": "^1.1.10"
+  }
+}
